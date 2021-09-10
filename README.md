@@ -17,7 +17,7 @@ I’m a Web developer who is passionate about making error-free websites with 10
 👉 Photoshop ✔ Illustrator ✔ <br>
 
 
-## 📲 Connect with me!
+## 📲 Connect with me ! 🤙
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' color="white" alt='github' height='40'>](https://github.com/afranahmedmehedi)
