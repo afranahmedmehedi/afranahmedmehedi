@@ -1,8 +1,8 @@
-![A passionate web developer from Bangladesh](https://pbs.twimg.com/profile_banners/1430763018569195524/1631207995/600x200)
+![A passionate web developer from Bangladesh](https://pbs.twimg.com/profile_banners/1430763018569195524/1631207995/800x700)
 
 ## Hi 👋, I'm Afran ahmed Mehedi 👍
 
-## 📚 Skills & Experiance: 👇 <br>
+### 📚 Skills & Experiance: 👇 <br>
 👉 HTML ✔ <br>
 👉 CSS ✔ <br>
 👉 JavaScript ✔ <br>
@@ -17,7 +17,7 @@
 I'm a web developer. passionate about making error-free websites with hundred client satisfaction. i love to solve real-world problems. i'm strategic, goal-oriented and always work with an end goal in mind. I have a passion for learning and sharing my knowledge with as publicly as possible. <br>
 
 
-## 🧐 My Choice  � <br>
+### 🧐 My Choice  � <br>
 👨‍💻 I like to write code 🖊 <br>
 🙇‍♂ I like to solve problems 💻 <br>
 👌 I like programming ⌨ <br>
