@@ -2,6 +2,16 @@
 
 ## Hi 👋, I'm Afran ahmed Mehedi 👍
 
+👨‍💻 I like to write code 🖊 <br>
+🙇‍♂ I like to solve problems 💻 <br>
+👌 I like programming ⌨ <br> <br>
+
+
+
+I'm a web developer. passionate about making error-free websites with hundred client satisfaction. i love to solve real-world problems. i'm strategic, goal-oriented and always work with an end goal in mind. I have a passion for learning and sharing my knowledge with as publicly as possible. <br>
+
+
+
 ### 📚 Skills & Experiance: 👇 <br>
 👉 HTML ✔ <br>
 👉 CSS ✔ <br>
@@ -13,14 +23,6 @@
 
 ![Profile views](https://gpvc.arturio.dev/afranahmedmehedi)   <br> <br>
 
-
-I'm a web developer. passionate about making error-free websites with hundred client satisfaction. i love to solve real-world problems. i'm strategic, goal-oriented and always work with an end goal in mind. I have a passion for learning and sharing my knowledge with as publicly as possible. <br>
-
-
-### 🧐 My Choice  � <br>
-👨‍💻 I like to write code 🖊 <br>
-🙇‍♂ I like to solve problems 💻 <br>
-👌 I like programming ⌨ <br> <br>
 
 
 
