@@ -15,6 +15,7 @@ I’m a Web developer who is passionate about making error-free websites with 10
 👉 jQuery ✔ <br>
 👉 Bootstrap ✔ <br>
 👉 Photoshop ✔ Illustrator ✔ <br>
+👉 Figma ✔ <br>
 
 
 ## 📲 Connect with me ! 🤙
