@@ -2,6 +2,8 @@
 
 ## Hi 👋, I'm Afran ahmed Mehedi 👍
 
+![Profile views](https://gpvc.arturio.dev/afranahmedmehedi)   <br>
+
 I’m a Web developer who is passionate about making error-free websites with 100% client satisfaction. i love to solve real-world problems. i'm strategic, goal-oriented and always work with an end goal in mind. I have a passion for learning and sharing my knowledge with as publicly as possible. <br>
 
 
@@ -15,9 +17,7 @@ I’m a Web developer who is passionate about making error-free websites with 10
 👉 Photoshop ✔ Illustrator ✔ <br> <br>
 
 
-![Profile views](https://gpvc.arturio.dev/afranahmedmehedi)   <br> <br>
-
-
+### Connect with me!
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' color="white" alt='github' height='40'>](https://github.com/afranahmedmehedi)
